@@ -67,7 +67,7 @@ public class StockPortfolio {
 
                     // load it
                     String[] lineSplit = line.split(",");
-                    Stock stock = getStockWithIdentifier(lineSplit[0]);
+                    Stock stock = this.getStockWithIdentifier(lineSplit[0]);
                     int count = Integer.parseInt(lineSplit[1]);
 
                     if (stock != null) this.inventory.put(stock, count);

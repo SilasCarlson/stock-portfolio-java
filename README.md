@@ -6,7 +6,7 @@ be cross-platform. The software here is a very basic and simple stock portfolio 
 You are able to buy stocks and then sell your stock portfolio into a text file and then are able to load it at a later date.
 The purpose of writing this software was to help me learn a little bit of Java.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=65CkwtNLnA8)
 
 # Development Environment
 
@@ -23,6 +23,7 @@ except those provided by the default Java library.
 
 # Future Work
 
+- When loading reset the inventory
 - Allow selling stocks
 - Connect to API to get live/actual stock data
 - GUI of some sort
