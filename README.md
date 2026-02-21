@@ -1,32 +1,32 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+This project was to learn a bit of Java Syntax and how programs are developed in Java. I was trying to further my learning 
+as a software engineer in order to understand how other languages work and how Java can be used to create software once, but
+be cross-platform. The software here is a very basic and simple stock portfolio that can be used to mimic a stock portfolio.
+You are able to buy stocks and then sell your stock portfolio into a text file and then are able to load it at a later date.
+The purpose of writing this software was to help me learn a little bit of Java.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+The project was built using Open JDK 25 using the IntellJ IDEA by JetBrains. This project does not include external libraries
+except those provided by the default Java library.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [w3schools](https://www.w3schools.com/java/)
+- [Learn Java](https://dev.java/learn/)
+- [Java Documentation](https://docs.oracle.com/en/java/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+- Allow selling stocks
+- Connect to API to get live/actual stock data
+- GUI of some sort
 
-- Item 1
-- Item 2
-- Item 3
+# AI Disclosure
+
+No use of AI was used throughout the course of the project.
